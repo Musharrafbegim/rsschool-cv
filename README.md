@@ -1,3 +1,2 @@
 # rsschool-cv
-
-https://github.com/Musharrafbegim.io/rsschool-cv/tree/main
+https://musharrafbegim.github.io/rsschool-cv/
